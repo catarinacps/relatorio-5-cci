@@ -1,0 +1,15 @@
+.vscode
+.directory
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+__latexindent_temp.tex
+*.bib.sav
+*.bib.bak
