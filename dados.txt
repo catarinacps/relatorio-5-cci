@@ -1,0 +1,19 @@
+somador 1 bit:
+Trise   =
+Tfall   =
+Tphl    =
+Tplh    =
+Tpmedio =
+Pmedia  = 71.07*e-6
+Prms    = 340.2*e-6
+area    = 28 x 14
+
+somador 4 bit:
+Trise   =
+Tfall   =
+Tphl    =
+Tplh    =
+Tpmedio =
+Pmedia  = 898.3*e-6
+Prms    = 1.671*e-3
+area    = 149.8 x 14
