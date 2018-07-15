@@ -1,19 +1,47 @@
-somador 1 bit:
-Trise   =
-Tfall   =
-Tphl    =
-Tplh    =
-Tpmedio =
+somador 1 bit S:
+Trise   = 0,3117
+Tfall   = 0,23823
+Tphl    = 0,4042
+Tplh    = 0,588
+Tpmedio = 0,4961
+Pmedia  = 71.07*e-6
+Prms    = 340.2*e-6
+area    = 28 x 14
+somador 1 bit Cout:
+Trise   = 0,27799
+Tfall   = 0,2352
+Tpll    = 0,4163
+Tphh    = 0,2092
+Tpmedio = 0,31275
 Pmedia  = 71.07*e-6
 Prms    = 340.2*e-6
 area    = 28 x 14
 
-somador 4 bit:
-Trise   =
-Tfall   =
-Tphl    =
-Tplh    =
-Tpmedio =
+somador 4 bit S3:
+Trise   = 0,328878
+Tfall   = 0,26146
+Tphl    = 1,36019
+Tplh    = 1,580881
+Tpmedio = 1,4705355
 Pmedia  = 898.3*e-6
 Prms    = 1.671*e-3
 area    = 149.8 x 14
+somador 4 bit Cout:
+Trise   = 0,31177
+Tfall   = 0,236881
+Tpll    = 1,354468
+Tphh    = 1,12318
+Tpmedio = 1,238824
+Pmedia  = 898.3*e-6
+Prms    = 1.671*e-3
+area    = 149.8 x 14
+
+inv:
+Trise   = 0,29965
+Tfall   = 0,1855
+Tphl    = 0,1279
+Tplh    = 0,18356
+Tpmedio = 0,15573
+Pmedia  = 71.73*e-6
+Prms    = 335.2*e-6
+area    = 5 x 14

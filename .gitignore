@@ -1,5 +1,6 @@
 .vscode
 .directory
+.dados.txt.kate-swp
 *.aux
 *.bbl
 *.blg
